@@ -39,3 +39,5 @@ d = math.sqrt(c_p_*c_p_ + pp_*pp_)
 theta = -1*math.atan2(pp_,c_p_)
 theta = math.degrees(theta)
 print(theta)
+
+# 현재 요양원에서 사용할 AI 카메라 기능 업데이트 중에 작성함.
